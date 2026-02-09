@@ -13,7 +13,6 @@ const UserForm = ({ onSubmit, initialData }: Props) => {
   const {
     register,
     handleSubmit,
-    reset,
     formState: { errors },
   } = useForm<User>({
     resolver: zodResolver(userSchema),
