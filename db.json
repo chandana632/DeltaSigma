@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "e5da",
+      "firstName": "Chandana",
+      "lastName": "Prasad",
+      "email": "chandanaprasad632@gmail.com",
+      "phone": "+91 82176 70978"
+    },
+    {
+      "id": "a953",
+      "firstName": "Chandana",
+      "lastName": "Prasad",
+      "email": "chandanaprasad632@gmail.com",
+      "phone": "+91 82176 70978"
+    },
+    {
+      "id": "463b",
+      "firstName": "Chandana",
+      "lastName": "Prasad",
+      "email": "chandanaprasad632@gmail.com",
+      "phone": "+91 82176 70978"
+    }
+  ]
+}
