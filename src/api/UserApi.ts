@@ -1,7 +1,7 @@
 import axios from "axios";
 import type {User}  from "../types/Users";
 
-const API_URL = "http://localhost:3000/users";
+const API_URL = "https://react-crud-json-server-q44v.onrender.com/users";
 
 export const getUsers = () => axios.get<User[]>(API_URL);
 
